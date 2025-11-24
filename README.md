@@ -10,3 +10,9 @@ Face à ces différences techniques, une meilleure compréhension des mouvements
 
 « En quoi la nature des mouvements du haut du corps diffère-t-elle entre la danse sur glace et le patinage artistique, et comment ces différences influencent-elles la charge physique et la prévention des blessures ? »
 
+3. Objectifs du projet
+
+- Comparer les caractéristiques des mouvements du haut du corps entre danse sur glace et patinage artistique.
+- Identifier les mouvements les plus exigeants ou à risque.
+- Évaluer la charge physique associée à chaque pratique.
+- Proposer des recommandations pour l’entraînement et la prévention des blessures.
