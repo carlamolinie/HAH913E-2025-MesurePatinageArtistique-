@@ -11,7 +11,7 @@ peaks, _ = find_peaks(df['acc_g'], height=None)
 # Agrégation des indicateurs (sans chiffres)
 results = df.groupby(['subject', 'discipline']).agg({
     'acc_g': ['max', 'mean', 'std'],
-    # À compléter selon les indicateurs que tu veux
+    # À compléter selon les indicateurs 
 })
 
 # Si poids disponible
